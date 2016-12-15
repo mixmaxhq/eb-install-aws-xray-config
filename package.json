@@ -1,0 +1,33 @@
+{
+  "name": "eb-install-aws-xray-config",
+  "version": "0.0.0",
+  "description": "Installs and starts the AWS XRay daemon",
+  "scripts": {
+    "install": "install-files source",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmaxhq/eb-install-aws-xray-config.git"
+  },
+  "keywords": [
+    "eb",
+    "elastic",
+    "beanstalk",
+    "xray"
+    "profiling",
+    "ebextensions",
+    "ebextension",
+    "logging",
+    "monitoring"
+  ],
+  "author": "Trey Tacon <trey@mixmax.com> (https://mixmax.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mixmaxhq/eb-install-aws-xray-config/issues"
+  },
+  "homepage": "https://github.com/mixmaxhq/eb-install-aws-xray-config#readme",
+  "dependencies": {
+    "install-files": "^1.0.0"
+  }
+}
