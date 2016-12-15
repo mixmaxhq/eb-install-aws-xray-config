@@ -22,11 +22,11 @@ the file with it.
 
 ## Based off of
 
-This module is based off of (eb-authenticate-npm)[https://github.com/mixmaxhq/eb-authenticate-npm].
+This module is based off of [eb-authenticate-npm](https://github.com/mixmaxhq/eb-authenticate-npm).
 
 ## Extra resources:
 
 If you're new to using AWS XRay with Elastic Beanstalk, you'll want to checkout
-(the docs)[https://docs.aws.amazon.com//xray/latest/devguide/xray-daemon-beanstalk.html].
+[the docs](https://docs.aws.amazon.com//xray/latest/devguide/xray-daemon-beanstalk.html).
 You'll also want to ensure you're EC2 instances have the
-(correct permissions)[https://docs.aws.amazon.com/xray/latest/devguide/xray-daemon.html#xray-daemon-permissions].
+[correct permissions](https://docs.aws.amazon.com/xray/latest/devguide/xray-daemon.html#xray-daemon-permissions).
